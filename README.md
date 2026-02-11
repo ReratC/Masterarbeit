@@ -1,2 +1,2 @@
 # Masterarbeit
-Im Rahmen meiner Masterarbeit werde ich hier Dokumente/Skripte hochladen.
+Im Rahmen meiner Masterarbeit werde ich Dokumente/Skripte hier hochladen.
